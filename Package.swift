@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "PackageA", //1.0.1
+    name: "PackageA", //1.2.0
     products: [
         .library(
             name: "PackageA",
